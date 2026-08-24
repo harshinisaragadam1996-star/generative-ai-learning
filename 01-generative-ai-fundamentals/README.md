@@ -243,7 +243,7 @@ The Encoder processes the input and creates meaningful representations.
 
 The Decoder uses those representations to generate an output sequence.
 
-![Transformer Encoder Decoder](images/transformer-encoder-decoder.png)
+![Transformer Encoder Decoder](01-generative-ai-fundamentals/ChatGPT Image Aug 24, 2026, 11_07_45 PM.png)
 
 *The Transformer encoder processes the input representation while the decoder uses it to generate the output sequence.*
 
