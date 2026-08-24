@@ -193,7 +193,7 @@ The model examines relationships between different tokens.
 
 ## Transformer Pipeline
 
-![Transformer Pipeline](images/transformer-pipeline.png)
+![Transformer Pipeline](01-generative-ai-fundamentals/ChatGPT Image Aug 24, 2026, 11_01_23 PM.png)
 
 *A simplified view of how a Transformer processes an input sequence.*
 
