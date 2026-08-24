@@ -48,7 +48,7 @@ That content could be:
 > **Traditional AI asks:** "What is this?"
 >
 > **Generative AI asks:** "What can I create based on what I have learned?"
-
+01-generative-ai-fundamentals/ChatGPT Image Aug 24, 2026, 12_40_41 PM.png
 ---
 
 ## 1. GANs — When Two Neural Networks Compete
