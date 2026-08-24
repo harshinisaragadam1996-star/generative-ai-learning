@@ -161,7 +161,7 @@ A model needs to understand relationships between different words in the sentenc
 
 This is where attention becomes extremely powerful.
 
-![Attention Concept](images/attention.png)
+![Attention Concept](01-generative-ai-fundamentals/ChatGPT Image Aug 24, 2026, 10_55_26 PM.png)
 
 *Attention allows a Transformer to examine relationships between different elements of a sequence.*
 
