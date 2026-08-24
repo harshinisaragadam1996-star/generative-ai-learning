@@ -115,7 +115,7 @@ This representation is called the **latent space**.
 
 The Decoder then uses that representation to reconstruct the original data.
 
-![VAE Architecture](images/vae-architecture.png)
+![VAE Architecture](01-generative-ai-fundamentals/ChatGPT Image Aug 24, 2026, 12_50_54 PM.png)
 
 *A VAE learns a compact latent representation of data and uses it to reconstruct or generate new samples.*
 
