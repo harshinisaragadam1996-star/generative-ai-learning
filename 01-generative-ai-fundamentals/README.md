@@ -93,7 +93,7 @@ The cycle continues:
 
 ## GAN Architecture
 
-![GAN Architecture](images/gan-architecture.png)
+![GAN Architecture](01-generative-ai-fundamentals/ChatGPT Image Aug 24, 2026, 12_46_02 PM.png)
 
 *The Generator creates synthetic data while the Discriminator learns to distinguish real data from generated data.*
 
